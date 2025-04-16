@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning Computer science and Engineering in Sri Venkateswara College of Engineering and technology.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: https://www.linkedin.com/in/anand-suman-singh-r-6a4229305
+- 📫 How to reach me: https://www.linkedin.com/in/anand-suman-singh
 - 😄 Pronouns: He/Him.
 
 <!---
